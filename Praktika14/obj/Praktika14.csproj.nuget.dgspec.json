@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\I Novbe\\Desktop\\apa102\\Praktika14\\Praktika14.csproj": {}
+    "C:\\Users\\I Novbe\\Desktop\\test1\\Praktika14\\Praktika14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\I Novbe\\Desktop\\apa102\\Praktika14\\Praktika14.csproj": {
+    "C:\\Users\\I Novbe\\Desktop\\test1\\Praktika14\\Praktika14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\apa102\\Praktika14\\Praktika14.csproj",
+        "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\test1\\Praktika14\\Praktika14.csproj",
         "projectName": "Praktika14",
-        "projectPath": "C:\\Users\\I Novbe\\Desktop\\apa102\\Praktika14\\Praktika14.csproj",
+        "projectPath": "C:\\Users\\I Novbe\\Desktop\\test1\\Praktika14\\Praktika14.csproj",
         "packagesPath": "C:\\Users\\I Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\I Novbe\\Desktop\\apa102\\Praktika14\\obj\\",
+        "outputPath": "C:\\Users\\I Novbe\\Desktop\\test1\\Praktika14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\I Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",

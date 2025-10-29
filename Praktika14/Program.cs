@@ -23,6 +23,7 @@ namespace Praktika14
             else
                 Console.WriteLine("Email sehvdir (@ isaresi yoxdur ya da birden coxdur).");
             #endregion
+            
         }
     }
 }
