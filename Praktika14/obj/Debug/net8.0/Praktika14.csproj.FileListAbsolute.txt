@@ -1,0 +1,14 @@
+C:\Users\I Novbe\Desktop\apa102\Praktika14\bin\Debug\net8.0\Praktika14.exe
+C:\Users\I Novbe\Desktop\apa102\Praktika14\bin\Debug\net8.0\Praktika14.deps.json
+C:\Users\I Novbe\Desktop\apa102\Praktika14\bin\Debug\net8.0\Praktika14.runtimeconfig.json
+C:\Users\I Novbe\Desktop\apa102\Praktika14\bin\Debug\net8.0\Praktika14.dll
+C:\Users\I Novbe\Desktop\apa102\Praktika14\bin\Debug\net8.0\Praktika14.pdb
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\Praktika14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\Praktika14.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\Praktika14.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\Praktika14.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\Praktika14.dll
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\refint\Praktika14.dll
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\Praktika14.pdb
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\Praktika14.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\apa102\Praktika14\obj\Debug\net8.0\ref\Praktika14.dll
