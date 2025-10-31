@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Praktika14.Helpers.Exception
 {
-    public static  class ExceptionEmail
+    public static  class ExceptionEmail:
     {
         #region /Console-dan email gelecek .Emailde @ isharesinin bir eded olub olmamasini yyoxlayan EXCEPTION ILE VER.
         public static void ExceptionEmailCheck(this string email)
@@ -30,6 +30,7 @@ namespace Praktika14.Helpers.Exception
 
         }
         #endregion
+
 
     }
 }

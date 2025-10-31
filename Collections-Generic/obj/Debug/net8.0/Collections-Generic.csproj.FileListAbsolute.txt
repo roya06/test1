@@ -1,0 +1,14 @@
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\Collections-Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\Collections-Generic.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\Collections-Generic.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\Collections-Generic.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\bin\Debug\net8.0\Collections-Generic.exe
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\bin\Debug\net8.0\Collections-Generic.deps.json
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\bin\Debug\net8.0\Collections-Generic.runtimeconfig.json
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\bin\Debug\net8.0\Collections-Generic.dll
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\bin\Debug\net8.0\Collections-Generic.pdb
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\Collections-Generic.dll
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\refint\Collections-Generic.dll
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\Collections-Generic.pdb
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\Collections-Generic.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\apa102\Collections-Generic\obj\Debug\net8.0\ref\Collections-Generic.dll

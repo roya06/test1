@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|c:\\users\\i novbe\\desktop\\apa102\\collections-generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|c:\\users\\i novbe\\desktop\\apa102\\collections-generic\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|c:\\users\\i novbe\\desktop\\apa102\\collections-generic\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|solutionrelative:services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|c:\\users\\i novbe\\desktop\\apa102\\collections-generic\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|c:\\users\\i novbe\\desktop\\apa102\\collections-generic\\models\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|solutionrelative:models\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|c:\\users\\i novbe\\desktop\\apa102\\collections-generic\\helpers\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|solutionrelative:helpers\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|c:\\users\\i novbe\\desktop\\apa102\\collections-generic\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1787AC59-C27D-4672-8665-6607641EA792}|Collections-Generic.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Helpers\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Helpers\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Helpers\\Exceptions\\NotFoundException.cs*",
+              "RelativeToolTip": "Helpers\\Exceptions\\NotFoundException.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:05:39.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Services\\Interfaces\\ICustomerService.cs*",
+              "RelativeToolTip": "Services\\Interfaces\\ICustomerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:00:57.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:58:17.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:58:15.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Models\\BaseEntitiy.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntitiy.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Models\\BaseEntitiy.cs",
+              "RelativeToolTip": "Models\\BaseEntitiy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:58:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Services\\CustomerService.cs*",
+              "RelativeToolTip": "Services\\CustomerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:28:58.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\apa102\\Collections-Generic\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:06:40.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

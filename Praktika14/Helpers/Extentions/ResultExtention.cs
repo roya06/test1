@@ -23,7 +23,7 @@ namespace Praktika14.Helpers.Extentions
         #endregion
         #region //Console-dan email gelecek .Emailde @ isharesinin bir eded olub olmamasini yyoxlayan ve bool qayataran extention method yazin.
         
-        public static bool SignVerification(this string email)
+        public static bool SignVerification(this string emaill)
         {
             int count = 0;
 
