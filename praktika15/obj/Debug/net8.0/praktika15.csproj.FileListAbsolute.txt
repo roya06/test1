@@ -1,0 +1,14 @@
+C:\Users\I Novbe\Desktop\apa102\praktika15\bin\Debug\net8.0\praktika15.exe
+C:\Users\I Novbe\Desktop\apa102\praktika15\bin\Debug\net8.0\praktika15.deps.json
+C:\Users\I Novbe\Desktop\apa102\praktika15\bin\Debug\net8.0\praktika15.runtimeconfig.json
+C:\Users\I Novbe\Desktop\apa102\praktika15\bin\Debug\net8.0\praktika15.dll
+C:\Users\I Novbe\Desktop\apa102\praktika15\bin\Debug\net8.0\praktika15.pdb
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\praktika15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\praktika15.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\praktika15.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\praktika15.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\praktika15.dll
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\refint\praktika15.dll
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\praktika15.pdb
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\praktika15.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\apa102\praktika15\obj\Debug\net8.0\ref\praktika15.dll
