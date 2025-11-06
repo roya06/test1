@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{028E4566-7719-4FAC-A101-663DC35CF4F1}|Data\\Data.csproj|c:\\users\\i novbe\\desktop\\arxitecturewithasync\\asyncwitharchitecture\\data\\db\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028E4566-7719-4FAC-A101-663DC35CF4F1}|Data\\Data.csproj|solutionrelative:data\\db\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0791ED-B916-48ED-95AC-810F9656EE9A}|AsyncArchitecture\\AsyncArchitecture.csproj|c:\\users\\i novbe\\desktop\\arxitecturewithasync\\asyncwitharchitecture\\asyncarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0791ED-B916-48ED-95AC-810F9656EE9A}|AsyncArchitecture\\AsyncArchitecture.csproj|solutionrelative:asyncarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028E4566-7719-4FAC-A101-663DC35CF4F1}|Data\\Data.csproj|c:\\users\\i novbe\\desktop\\arxitecturewithasync\\asyncwitharchitecture\\data\\metods\\showmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028E4566-7719-4FAC-A101-663DC35CF4F1}|Data\\Data.csproj|solutionrelative:data\\metods\\showmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB1280-E3E8-489D-8437-4ED5A58366BD}|Service\\Service.csproj|c:\\users\\i novbe\\desktop\\arxitecturewithasync\\asyncwitharchitecture\\service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB1280-E3E8-489D-8437-4ED5A58366BD}|Service\\Service.csproj|solutionrelative:service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB1280-E3E8-489D-8437-4ED5A58366BD}|Service\\Service.csproj|c:\\users\\i novbe\\desktop\\arxitecturewithasync\\asyncwitharchitecture\\service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB1280-E3E8-489D-8437-4ED5A58366BD}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028E4566-7719-4FAC-A101-663DC35CF4F1}|Data\\Data.csproj|c:\\users\\i novbe\\desktop\\arxitecturewithasync\\asyncwitharchitecture\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{028E4566-7719-4FAC-A101-663DC35CF4F1}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C73C6EA-BC6D-4E14-AC21-31B9568524C8}|Domain\\Domain.csproj|c:\\users\\i novbe\\desktop\\arxitecturewithasync\\asyncwitharchitecture\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C73C6EA-BC6D-4E14-AC21-31B9568524C8}|Domain\\Domain.csproj|solutionrelative:domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-06T09:30:34.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Service\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Service\\Services\\StudentService.cs",
+              "RelativeToolTip": "Service\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:58:13.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:55:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Data\\DB\\Context.cs",
+              "RelativeDocumentMoniker": "Data\\DB\\Context.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Data\\DB\\Context.cs",
+              "RelativeToolTip": "Data\\DB\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:50:59.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Domain\\Models\\Student.cs",
+              "RelativeToolTip": "Domain\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:49:32.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowMethod.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Data\\Metods\\ShowMethod.cs",
+              "RelativeDocumentMoniker": "Data\\Metods\\ShowMethod.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\Data\\Metods\\ShowMethod.cs",
+              "RelativeToolTip": "Data\\Metods\\ShowMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:27:24.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\AsyncArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArxitectureWithAsync\\AsyncWithArchitecture\\AsyncArchitecture\\Program.cs",
+              "RelativeToolTip": "AsyncArchitecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:22:47.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
