@@ -1,0 +1,142 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: #f5f5f7;
+  color: #111827;
+}
+
+.auth-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+.auth-card {
+  background: #ffffff;
+  border-radius: 24px;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.12);
+  padding: 2.2rem 2.6rem 2.4rem;
+  max-width: 420px;
+  width: 100%;
+  text-align: center;
+}
+
+.auth-card__avatar {
+  width: 52px;
+  height: 52px;
+  border-radius: 999px;
+  margin: 0 auto 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #8b5cf6, #ec4899);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.auth-card__title {
+  margin: 0 0 0.4rem;
+  font-size: 1.7rem;
+}
+
+.auth-card__subtitle {
+  margin: 0 0 1.5rem;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+.auth-form {
+  text-align: left;
+}
+
+.auth-form__group {
+  margin-bottom: 1rem;
+}
+
+.auth-form__group label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  color: #111827;
+}
+
+.auth-form__group input {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  padding: 0.65rem 0.75rem;
+  font-size: 0.9rem;
+  outline: none;
+}
+
+.auth-form__group input:focus {
+  border-color: #f97364;
+  box-shadow: 0 0 0 1px rgba(248, 113, 113, 0.25);
+}
+
+.auth-form__forgot {
+  display: block;
+  text-align: right;
+  margin: -0.5rem 0 0.6rem;
+  font-size: 0.8rem;
+  color: #9ca3af;
+  text-decoration: none;
+}
+
+.auth-form__forgot:hover {
+  text-decoration: underline;
+}
+
+.auth-form__submit {
+  margin-top: 0.8rem;
+  width: 100%;
+  border: none;
+  border-radius: 999px;
+  padding: 0.75rem 1rem;
+  background: #ff4f4f;
+  color: #ffffff;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.1s ease, box-shadow 0.1s ease, background 0.1s ease;
+}
+
+.auth-form__submit:hover {
+  background: #f23838;
+  transform: translateY(-1px);
+  box-shadow: 0 12px 24px rgba(248, 113, 113, 0.35);
+}
+
+.auth-card__footer {
+  margin-top: 1.4rem;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.auth-card__footer a {
+  font-weight: 600;
+  color: #111827;
+  text-decoration: none;
+}
+
+.auth-card__footer a:hover {
+  text-decoration: underline;
+}
+
+
+@media (max-width: 480px) {
+  .auth-card {
+    padding: 1.8rem 1.4rem 2rem;
+    border-radius: 16px;
+  }
+}
